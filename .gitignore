@@ -1,0 +1,8 @@
+.vscode/
+#ignore documents
+*.pdf
+*.docx
+*.pptx
+#misc folder
+misc/
+
